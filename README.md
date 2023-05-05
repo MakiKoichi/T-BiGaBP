@@ -10,8 +10,10 @@ News:
 
 - 2023/05/6 : MATLAB source code and the theoretical equations for backpropagation have been provided.
 
-If you have any questions or concerns, please feel free to contact the author directly. 
+If you have any questions or concerns, please feel free to contact the author directly.
+
 Email : ce221065 at meiji.ac.jp
+
 I apologize for any inconvenience, as I am still learning how to use GitHub. Due to my unfamiliarity with the platform, I may not be able to respond effectively to issues raised for some time. I appreciate your understanding.
 
 ------
