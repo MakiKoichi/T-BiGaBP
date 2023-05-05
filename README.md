@@ -22,7 +22,7 @@ I apologize for any inconvenience, as I am still learning how to use GitHub. Due
 
 To use the provided MATLAB source code, follow these steps:
 
-1. Add the directory “MATLAB source code/Add this directory to your MATLAB path” to your MATLAB path.
+1. Add the directory “/T-BiGaBP/MATLAB source code/Add this directory to your MATLAB path” to your MATLAB path.
 2. Run “Execute_DeepUnfolding_of_BiGaBP_QPSK.m” to start the deep unfolding process.
 
 Upon completion of each mini-batch, the updated parameters will be stored in a .mat file named “ExpoDecay_epoch＿*(current epoch)*＿minibatch＿*(current minibatch)*＿batchsize＿*(batch size)*.mat” , and the progress of the loss function will be saved in “Losslist.mat”. A graph showing the temporary changes in the loss function will also be  displayed. If the learning process is interrupted due to any issues, you can simply rerun "Execute_DeepUnfolding_of_BiGaBP_QPSK.m" to resume  learning from where you left off, without any additional steps.
