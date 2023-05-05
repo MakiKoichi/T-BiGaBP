@@ -8,7 +8,7 @@ Electrical Engineering Program, Graduate School of Science and Technology, Meiji
 
 News:
 
-- 2023/05/6 : The MATLAB source code and the theoretical equations for backpropagation have been provided.
+- 2023/05/6 : MATLAB source code and the theoretical equations for backpropagation have been provided.
 
 If you have any questions or concerns, please feel free to contact the author directly. 
 Email : ce221065 at meiji.ac.jp
