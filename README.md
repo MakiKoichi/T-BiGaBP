@@ -3,6 +3,7 @@
 Repository for “A From-Scratch Approach to Deep Unfolding-Aided Bilinear Gaussian Belief Propagation for Correlated Large MIMO”
 
 Koichi Maki
+
 Electrical Engineering Program, Graduate School of Science and Technology, Meiji University
 
 News:
